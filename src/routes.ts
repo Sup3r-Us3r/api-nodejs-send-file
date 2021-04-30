@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import FileController from './app/controllers/FileController';
-import multerMiddleware from './middlewares/multerMiddlware';
+import multerMiddleware from './middlewares/multerMiddleware';
 
 const routes = Router();
 
